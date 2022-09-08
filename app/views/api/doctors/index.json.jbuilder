@@ -1,0 +1,1 @@
+json.array! @doctors, :id, :first_name, :last_name
